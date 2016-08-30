@@ -37,8 +37,10 @@
   },
   "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
   "devDependencies": {
-    "@angular/core": "^2.0.0-rc.0",
-    "@angular/platform-browser": "^2.0.0-rc.0",
+    "@angular/core": "^2.0.0-rc.5",
+    "@angular/common": "2.0.0-rc.5",
+    "@angular/compiler": "2.0.0-rc.5",
+    "@angular/platform-browser": "^2.0.0-rc.5",
     "es6-shim": "^0.35.0",
     "http-server": "^0.9.0",
     "jasmine-core": "^2.4.1",
@@ -59,7 +61,7 @@
     "zone.js": "^0.6.12"
   },
   "peerDependencies": {
-    "@angular/core": "^2.0.0-rc.0",
+    "@angular/core": "^2.0.0-rc.5",
     "lodash": "^4.0.0",
     "rxjs": "^5.0.0-beta.6"
   }
