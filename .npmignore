@@ -2,8 +2,6 @@
 /examples/
 /.git/
 /.idea/
-/node_modules/
-/src/typings/
 
 .codeclimate.yml
 devrelease.sh
